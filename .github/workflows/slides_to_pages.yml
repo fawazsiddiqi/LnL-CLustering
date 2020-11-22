@@ -4,7 +4,7 @@ name: deploy-slides
 on:
   push:
     branches:
-    - master
+    - main
 
 # This job installs dependencies, builds the slides, and pushes it to `gh-pages`
 jobs:
