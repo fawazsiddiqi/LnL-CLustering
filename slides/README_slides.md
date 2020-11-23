@@ -99,3 +99,7 @@ jupyter:
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ![center](https://github.com/fawazsiddiqi/LnL-CLustering/blob/main/images/slides/Slide22.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/fawazsiddiqi/LnL-CLustering/blob/main/images/slides/Slide23.png?raw=true)
