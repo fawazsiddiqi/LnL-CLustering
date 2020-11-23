@@ -33,8 +33,8 @@ I've designed this tutorial to be informative for both casual readers and hands-
    * Click **Notebook**.
    * Click **From URL**.
    * Provide a **Name**.
-   * Under **Select runtime**, choose **Default Python 3.6 Free**.
-   * Enter `https://raw.githubusercontent.com/jupytercon/2020-ClusteringAlgorithms/master/notebooks/01-clustering_with_scikit-learn-tutorial.ipynb` as the **Notebook URL**.
+   * Under **Select runtime**, choose **Default Python 3.7 Free**.
+   * Enter `https://raw.githubusercontent.com/fawazsiddiqi/LnL-CLustering/main/notebooks/01-clustering_with_scikit-learn-tutorial.ipynb` as the **Notebook URL**.
    * Click **Create Notebook**.
 
 1. Run the Notebook.
